@@ -5,3 +5,4 @@ function doSomethingelse(){
     console.log("ahzo");
 }
 doSomething();
+doSomethingelse();
