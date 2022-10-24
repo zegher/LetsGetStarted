@@ -6,4 +6,4 @@ function doSomethingelse(){
 }
 doSomething();
 doSomethingelse();
-//andere commentaar
+//Dit is de ultieme comment
