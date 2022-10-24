@@ -6,4 +6,4 @@ function doSomethingelse(){
 }
 doSomething();
 doSomethingelse();
-//jaaaaaaaaaaaaa
+//andere commentaar
